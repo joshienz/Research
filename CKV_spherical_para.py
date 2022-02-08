@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 17 2021
-Last updated 7/23/2021 by NICHOLSJA18
+Last updated 2/7/2022 by NICHOLSJA18
 
 Implements the Complex Kohn Variational method to find a phase shift and 
     scattering amplitude of a non-spherical potential.
